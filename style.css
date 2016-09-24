@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.mainQuotes {
+  background-color: #e6f7ff;
+  width: 100%;
+  padding: 10px;
+  margin: 2px;
+}
+
+.inputText {
+  background-color: #e6f7ff;
+  width: 100%;
+  padding: 10px;
+  margin: 2px;
+}
+
+.quoteText {
+  font-size: 25px;
+  color: #005580;
+}
+
+.author {
+  color: #336699;
+  text-align: right;
+  padding-right: 10px;
+}
